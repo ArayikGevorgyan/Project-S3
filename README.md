@@ -15,7 +15,7 @@ The **Expense Tracker Application** is a graphical tool designed to simplify man
 - **Visualizations**:
   - **Bar Charts**: Monthly spending trends.
   - **Pie Charts**: Category-wise spending distribution.
-- **Spending Insights**: AI-driven recommendations to optimize your expenses.
+- **Spending Insights**: Recommendations to optimize your expenses.
 
 ---
 
