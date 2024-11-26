@@ -58,7 +58,7 @@ Ensure the following Python libraries are installed:
    - **View Reports**: Use the calendar to set a date range and click "Generate Report."
    - **Export Data**: Click "Export to CSV" to save your expenses as a CSV file.
    - **Visualize Data**: Click "Show Spending Chart" or "Show Category Pie Chart."
-   - **Get Recommendations**: Click "Get AI Recommendations" to see insights on reducing unnecessary spending.
+   - **Get Recommendations**: Click "Get Recommendations" to see insights on reducing unnecessary spending.
 
 ---
 
@@ -80,7 +80,7 @@ Ensure the following Python libraries are installed:
 ---
 
 ## Recommendations
-The application provides AI-driven recommendations to help you save money by analyzing spending patterns. For example:
+The application provides recommendations to help you save money by analyzing spending patterns. For example:
 - Reduce spending on dining out if it exceeds 20% of your total expenses.
 - Cut down on entertainment expenses if they exceed 15% of your total expenses.
 
