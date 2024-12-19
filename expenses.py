@@ -41,7 +41,6 @@ from tkcalendar import Calendar
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# python3 -u "/Users/arayik/Desktop/ProjectS3/expenses.py"
 
 # Initialize and set up SQLite database
 DB_FILE = "expenses.db"
